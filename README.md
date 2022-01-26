@@ -1,2 +1,2 @@
 # Curso_DS_Degree
-Material do curso Data Science Degree - LetsCode
+Exercicios e projetos do curso de cinência de dados.
